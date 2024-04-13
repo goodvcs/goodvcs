@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @goodvcs
+- 👋 Hi, I’m @Jiangtao Sun
 - 👀 I’m interested in programming
 - 🌱 I’m currently making programs
 
